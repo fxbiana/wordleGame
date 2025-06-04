@@ -1,0 +1,8 @@
+Word list issues (missing or repeated words) — keep backup word lists and test word loading thoroughly
+
+UI glitches or crashes on keyboard input — add input validation and test extensively
+
+Running out of time to add restart feature — deliver core gameplay first, add restart later if needed
+
+SwiftUI limitations on animations or layout — simplify UI or switch to UIKit components if needed
+

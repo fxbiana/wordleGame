@@ -45,6 +45,11 @@
 			path = wordleGameUITests;
 			sourceTree = "<group>";
 		};
+		EB3E92DC2DF01C8700FAB4F0 /* Documentation */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Documentation;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +80,7 @@
 		EB3E92922DEE1EB200FAB4F0 = {
 			isa = PBXGroup;
 			children = (
+				EB3E92DC2DF01C8700FAB4F0 /* Documentation */,
 				EB3E929D2DEE1EB200FAB4F0 /* wordleGame */,
 				EB3E92AB2DEE1EB400FAB4F0 /* wordleGameTests */,
 				EB3E92B52DEE1EB400FAB4F0 /* wordleGameUITests */,
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				EB3E929D2DEE1EB200FAB4F0 /* wordleGame */,
+				EB3E92DC2DF01C8700FAB4F0 /* Documentation */,
 			);
 			name = wordleGame;
 			packageProductDependencies = (
